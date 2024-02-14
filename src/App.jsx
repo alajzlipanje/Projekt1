@@ -6,7 +6,8 @@ export default function App() {
   return (
     <>
       <div className="back">
-        <h1 className="title">Živalsko kraljevstvo</h1>
+        <h1 className="title">PROJEKT 1</h1>
+        <h1 className="title">Živalsko KRALJEVSTVO</h1>
         <p className="subtitle">Tukaj bodo predstavljene različne živali.</p>
         <Counter></Counter>
         <div className="grid grid-cols-4">
